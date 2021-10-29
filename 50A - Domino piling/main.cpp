@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-	int w, h;
+    int w, h;
 
-	cin >> w >> h;
-	cout << (w * h / 2);
+    cin >> w >> h;
+    cout << (w * h / 2);
 }
